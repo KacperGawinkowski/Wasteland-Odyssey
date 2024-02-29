@@ -1,0 +1,10 @@
+Would you like to play the tutorial?
+Quest objectives are written in the upper right corner of your screen. <br><br>Complete the quest objective.
+Now, before you head out on your adventure, go out from your house and loot the chest.
+Press "I" key or the backpack icon in the upper right corner of your screen. <br><br>Press RMB on the weapon or armor and equip it.
+Press "H" key or the heart icon in the upper right corner of your screen to check your health status.
+As you can see your body is slightly damaged, go to your inventory and use medicaments.
+Press "1" or "2" to switch between guns and "R" to reload the weapon. <br><br>Ammunition is not infinite so use it wisely.
+Somewhere near your house there is a partially destroyed mech, find it and destroy it. <br><br>Press LMB on the mech to shoot at it.
+Mechs cannot be looted, but if you ever kill a human then you will be able to look it just like you looted the chest.
+Now you know the basics, so head out on your adventure. <br><br>Go to the edge of the map to leave your house location.

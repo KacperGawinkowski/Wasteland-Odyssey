@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68192b4579fcc4d46aad29b5b274570a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ObjectToHide: {instanceID: 0}
+  - m_BaseReplaceMaterial: {fileID: 2100000, guid: 981a55dfaf6268444bfe9f0c89299964,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

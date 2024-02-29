@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f59f3811afc2f2b408c141015d26c30c, type: 3}
+  m_Name: Gas_Station
+  m_EditorClassIdentifier: 
+  houseControllers:
+  - {fileID: 6592401207131363626, guid: 4417fe04368421849bc300596580ff6d, type: 3}
+  - {fileID: 5584793868534885108, guid: 5c54a19997e123f46a0cd382e27edca0, type: 3}
+  interiorVariants:
+  - {fileID: 6771541464796081236, guid: b9bfcc1ed6306cb4496d6b71d04ab04a, type: 3}
+  - {fileID: 2460220670355439599, guid: 3fe6c1566ffd48147b2ca1de0807e6ea, type: 3}
+  Left: 1
+  Right: 0
+  Top: 1
+  TopLeft: 1
+  TopRight: 0

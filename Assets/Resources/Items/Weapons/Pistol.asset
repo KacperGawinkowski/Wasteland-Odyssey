@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef68adcec41874640b7919e3edda0d6a, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  itemName: Pistol
+  description: Pistol
+  weight: 2
+  occurChance: 0.01
+  sellPrice: 100
+  buyPrice: 200
+  itemIcon: {fileID: 21300000, guid: 579be856ff47a3d4ea7cc9a0be37e30c, type: 3}
+  weaponType: 1
+  ammunitionType: 0
+  ammunition: {fileID: 11400000, guid: c1ea3a5db3707ae4db799ac220a86d51, type: 2}
+  magazineCapacity: 8
+  baseDamage: 10
+  attackSpeed: 0.5
+  reloadSpeed: 1
+  baseAccuracy: 0.75
+  effectiveRange: 6
+  weaponGameObject: {fileID: 663296128397350942, guid: a04b229466feab742b41453e6f2f2b91,
+    type: 3}

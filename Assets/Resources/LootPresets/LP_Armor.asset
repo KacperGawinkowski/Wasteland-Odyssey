@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ab2a2eb008556f4c86143270dc3f70e, type: 3}
+  m_Name: LP_Armor
+  m_EditorClassIdentifier: 
+  items:
+  - {fileID: 11400000, guid: debbddd8a32e003429030f69e3e7f5b1, type: 2}
+  - {fileID: 11400000, guid: ca1c1d96e1db1fd4eb9567bfef9fa9ca, type: 2}
+  - {fileID: 11400000, guid: 9cd5689600e19274e9bf47997717abdd, type: 2}
+  - {fileID: 11400000, guid: 5c09886fe8544fe449df0db1469800b7, type: 2}
+  - {fileID: 11400000, guid: 197bf88d79c20b74e91cdadd99e2b44c, type: 2}

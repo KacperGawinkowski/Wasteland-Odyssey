@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f59f3811afc2f2b408c141015d26c30c, type: 3}
+  m_Name: Willa
+  m_EditorClassIdentifier: 
+  houseControllers:
+  - {fileID: -4412482580881715973, guid: 721f4f5eee910af4c9d8f81c594d065f, type: 3}
+  - {fileID: 9140329001670371942, guid: 832e591848a359b4e8432b586b7ce7ea, type: 3}
+  interiorVariants: []
+  Left: 1
+  Right: 0
+  Top: 1
+  TopLeft: 1
+  TopRight: 0

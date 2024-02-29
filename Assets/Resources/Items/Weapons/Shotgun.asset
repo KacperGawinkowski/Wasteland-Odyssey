@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef68adcec41874640b7919e3edda0d6a, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  itemName: Shotgun
+  description: Shotgun
+  weight: 5
+  occurChance: 0.3
+  sellPrice: 100
+  buyPrice: 200
+  itemIcon: {fileID: 21300000, guid: b70486a6b68e4364183964885af3c5b9, type: 3}
+  weaponType: 0
+  ammunitionType: 2
+  ammunition: {fileID: 11400000, guid: 85861de1c38cf7a4abe051cbf327f2a7, type: 2}
+  magazineCapacity: 6
+  baseDamage: 6
+  attackSpeed: 0.5
+  reloadSpeed: 3
+  baseAccuracy: 0.5
+  effectiveRange: 6
+  weaponGameObject: {fileID: 7249604729848138753, guid: e8e2dee7f7a90c541a05988567e2e55c,
+    type: 3}

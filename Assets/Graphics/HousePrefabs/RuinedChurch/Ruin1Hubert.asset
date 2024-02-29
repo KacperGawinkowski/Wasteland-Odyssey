@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f59f3811afc2f2b408c141015d26c30c, type: 3}
+  m_Name: Ruin1Hubert
+  m_EditorClassIdentifier: 
+  houseControllers:
+  - {fileID: -2136997580530321060, guid: a78230c5692784246b5ed4cfa66950c4, type: 3}
+  - {fileID: 2355709729754358973, guid: 1cf1ab12fdbbf334a84a5521d001089e, type: 3}
+  interiorVariants: []
+  Left: 1
+  Right: 0
+  Top: 1
+  TopLeft: 1
+  TopRight: 0

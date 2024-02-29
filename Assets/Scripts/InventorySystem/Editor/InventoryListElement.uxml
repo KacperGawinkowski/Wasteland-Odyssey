@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:GroupBox style="flex-direction: row; margin-top: 1px; margin-left: 1px; margin-right: 1px; padding-top: 1px; padding-bottom: 1px; background-color: rgb(51, 51, 51);">
+        <ui:Label text="Amogus" display-tooltip-when-elided="true" name="ItemName" style="width: 33%; flex-grow: 0; flex-direction: row;" />
+        <ui:Label text="100" display-tooltip-when-elided="true" name="ItemNumber" style="width: 33%;" />
+        <ui:Label text="Label" display-tooltip-when-elided="true" name="ItemBuyPrice" style="width: 33%;" />
+    </ui:GroupBox>
+</ui:UXML>

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cdccf7d5fb0f2a44a5f5fe8009fd1af, type: 3}
+  m_Name: Legs3
+  m_EditorClassIdentifier: 
+  itemName: Tactical Trousers
+  description: 
+  weight: 6
+  occurChance: 0.008
+  sellPrice: 150
+  buyPrice: 300
+  itemIcon: {fileID: 21300000, guid: 2bf2373cbc7446345b7d0e45eaf1d2fa, type: 3}
+  armorSlot: 2
+  baseArmorPoints: 12
+  skinnedMeshRenderer: {fileID: -220991625769708150, guid: ceb756a19e90f6241801af91b12e5967,
+    type: 3}
+  meshFilter: {fileID: 0}
+  meshRenderer: {fileID: 0}

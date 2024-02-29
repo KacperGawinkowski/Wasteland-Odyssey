@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2539066c2e01a046a05b65a5c3b1591, type: 3}
+  m_Name: Golden Cog
+  m_EditorClassIdentifier: 
+  itemName: Golden Cog
+  description: 
+  weight: 0
+  occurChance: 0
+  sellPrice: 0
+  buyPrice: 0
+  itemIcon: {fileID: 21300000, guid: ecd616fbaee8e8846b2c5280668f528f, type: 3}
+  location:
+  - {fileID: 11400000, guid: 67dac5914fdb9d249a29e4e9ebbfa8a7, type: 2}

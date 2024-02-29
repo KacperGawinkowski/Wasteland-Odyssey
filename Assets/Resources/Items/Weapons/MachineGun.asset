@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef68adcec41874640b7919e3edda0d6a, type: 3}
+  m_Name: MachineGun
+  m_EditorClassIdentifier: 
+  itemName: Machine gun
+  description: Old machine gun
+  weight: 4
+  occurChance: 0.01
+  sellPrice: 75
+  buyPrice: 150
+  itemIcon: {fileID: 21300000, guid: e39de8f534ff66447a7e77e1111662c7, type: 3}
+  weaponType: 0
+  ammunitionType: 1
+  ammunition: {fileID: 11400000, guid: 185d30ceb62868849b61ae6362dfbe92, type: 2}
+  magazineCapacity: 30
+  baseDamage: 6
+  attackSpeed: 0.2
+  reloadSpeed: 2
+  baseAccuracy: 0.7
+  effectiveRange: 8
+  weaponGameObject: {fileID: 3424256144589316151, guid: 691be6557bad73a48aedf13fafa9f483,
+    type: 3}

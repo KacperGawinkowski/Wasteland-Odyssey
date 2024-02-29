@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87f7a2cafc379e8458fa4071f536b05b, type: 3}
+  m_Name: FireRateSkill
+  m_EditorClassIdentifier: 
+  itemName: Fire Rate
+  description: Greatly increases fire rate for a short time
+  weight: 0
+  occurChance: 0.005
+  sellPrice: 1000
+  buyPrice: 2000
+  itemIcon: {fileID: 21300000, guid: 6053262d927fab443b8cd09a41594dc1, type: 3}
+  cooldown: 8
+  duration: 1
+  m_FireRateBoots: 6

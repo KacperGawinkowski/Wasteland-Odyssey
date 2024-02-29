@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1342573993767c84fa1f043ffd7b41ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_NpcPrefab: {fileID: 60818699, guid: 4437e5c6c8cffe44ca2860bc16b0f758, type: 3}
+  - m_WandererPointListObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

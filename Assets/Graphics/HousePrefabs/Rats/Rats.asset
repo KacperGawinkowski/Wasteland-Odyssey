@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f59f3811afc2f2b408c141015d26c30c, type: 3}
+  m_Name: Rats
+  m_EditorClassIdentifier: 
+  houseControllers:
+  - {fileID: 1412829285404709899, guid: 686b381d99c825f4791ec8ce49b01008, type: 3}
+  interiorVariants: []
+  Left: 0
+  Right: 0
+  Top: 0
+  TopLeft: 0
+  TopRight: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edc78adbc48b45d2a9d82706989f5787, type: 3}
+  m_Name: StorylineQuest_2
+  m_EditorClassIdentifier: 
+  storylineQuestIndex: 2
+  storylineQuestNpcTakeDialogue: Ah yes, indeed, I know where the spaceship is, however,
+    I will not give you that information for free, bring me 6000 coins
+  storylineQuestNpcCompleteDialogue: Thank you man
+  storylineQuestDescription: You were told that <npcName> is willing to tell you
+    where the spaceship is, but you have to pay him <amountOfMoney> for this information
+  storylineShortenedQuestObjective: Pay <npcName> <amountOfMoney> coins for the information
+    about the spaceship
+  storylineQuestButtonLabel: Pay
+  amountOfMoneyNeeded: 6000
